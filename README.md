@@ -119,18 +119,20 @@ Configure Supabase:
 
 Create a .env.local file in the root directory.
 Add the following credentials to the file:
-bash
-Copy code
+```bash
+
 NEXT_PUBLIC_SUPABASE_URL=your_supabase_project_url
 NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
 NEXT_PUBLIC_SUPABASE_GOOGLE_CLIENT_ID=your_google_client_id
 NEXT_PUBLIC_SUPABASE_GOOGLE_REDIRECT_URL=your_google_redirect_url
+```
 Run the development server:
 Start the server locally using the following command:
 
 bash
-Copy code
+```
 npm run dev
+```
 Open the application in your browser:
 Navigate to http://localhost:3000.
 
