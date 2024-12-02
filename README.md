@@ -152,6 +152,7 @@ User Authentication:
 
 Integrated Supabase Authentication for both Email & Password and Google OAuth.
 Ensured proper user flow, including access control for authenticated and unauthenticated users.
+and finally i would like to say my LightHouse score of this project is 89 for performance
 
 
 
